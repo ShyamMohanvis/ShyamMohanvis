@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 👨‍💻 About Me
 
@@ -120,7 +120,7 @@
 
 ## 📚 Data Structures & Algorithms
 
-<img align="right" alt="DSA" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="DSA" width="350" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 - 💡 Solving **DSA problems daily** in **Java**
 - 🎯 **Focus Areas:**
@@ -159,21 +159,18 @@
 
 ---
 
-## 🐍 Contribution Snake
+## � Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamMohanvis&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## � Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShyamMohanvis&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamMohanvis&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---

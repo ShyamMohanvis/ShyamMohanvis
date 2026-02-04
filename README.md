@@ -53,9 +53,45 @@
 
 ---
 
+## 🏆 Hackathon Achievements
+
+<div align="center">
+
+### 🥈 Global AI Summit Hackathon | AI for Social Good
+**2nd Runner-Up (3rd position in theme)** | Jan 2026  
+📍 **GLA University, Greater Noida** | 🤝 **TATA Advanced Systems Limited**  
+
+- 🏆 Ranked **Top 3 in theme** among **1042+ teams** (Top 88 shortlisted)
+- 🚀 Built **CIVIC LENS AI**, a web & mobile civic-tech platform for AI-driven civic issue reporting
+- 💡 **Key Features:** AI image classification, smart routing & escalation, SOS complaints, real-time tracking
+- 👨‍💻 **Role:** Full-stack & system design (frontend, backend APIs, architecture)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### 🛡️ [CIVIC LENS AI](https://github.com/ShyamMohanvis/CIVIC-LENS-AI) ⭐ HACKATHON WINNER
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+**AI-driven civic tech platform** for smart city governance and issue reporting.
+
+✨ **Key Features:**
+- 🤖 **AI Image Classification:** Automatically detects and categorizes civic issues from photos.
+- 🚑 **SOS Emergency System:** Real-time emergency reporting with instant admin alerts.
+- 📍 **Smart Routing:** Automated escalation of complaints to relevant departments.
+- 📊 **Real-time Tracking:** Live status updates for citizens and administrative dashboards.
+
+📂 **[Source Code](https://github.com/ShyamMohanvis/CIVIC-LENS-AI)**
+
+---
 
 ### 🏨 [NamasteStay](https://namastestay.onrender.com/listings) ⭐ LIVE PROJECT
 

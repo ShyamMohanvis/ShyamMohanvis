@@ -149,12 +149,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShyamMohanvis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShyamMohanvis&theme=tokyonight" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamMohanvis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamMohanvis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShyamMohanvis&theme=tokyonight" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamMohanvis&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 

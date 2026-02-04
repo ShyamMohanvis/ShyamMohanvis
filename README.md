@@ -159,15 +159,7 @@
 
 ---
 
-## � Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamMohanvis&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</p>
-
----
-
-## � Recent Activity
+## 🔥 Recent Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyamMohanvis&theme=tokyonight" alt="Profile Summary" />

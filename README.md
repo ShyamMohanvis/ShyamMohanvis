@@ -137,10 +137,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShyamMohanvis&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShyamMohanvis&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShyamMohanvis&theme=tokyonight" alt="Repos Per Language" />
 </p>
 
 ---
